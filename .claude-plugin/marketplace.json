@@ -1,0 +1,32 @@
+{
+  "name": "agents-skills",
+  "owner": {
+    "name": "eshraw"
+  },
+  "plugins": [
+    {
+      "name": "assumption-audit",
+      "source": "./product-management/assumption-audit",
+      "description": "Surface hidden assumptions in a feature, decision, or plan. Exposes what you're taking for granted so you can validate before committing.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "pm-challenge",
+      "source": "./product-management/pm-challenge",
+      "description": "Challenge the prioritization of a feature from a product management perspective. Surfaces trade-offs, assumptions, and opportunity costs to help make better decisions.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "design-system-as-text",
+      "source": "./design/design-system-as-text",
+      "description": "A set of skills that represents your Figma design system as structured markdown and CSS files \u2014 making it easy for LLMs to understand and apply your design system when building UI.",
+      "version": "1.0.0"
+    },
+    {
+      "name": "api-design",
+      "source": "./engineering/api-design",
+      "description": "Design a well-structured API from a desired outcome. Produces OpenAPI specifications, usage examples, and a plain-language section for non-technical stakeholders.",
+      "version": "1.0.0"
+    }
+  ]
+}

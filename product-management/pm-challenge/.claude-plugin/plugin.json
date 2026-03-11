@@ -1,0 +1,12 @@
+{
+  "name": "pm-challenge",
+  "version": "1.0.0",
+  "description": "Challenge the prioritization of a feature from a product management perspective. Surfaces trade-offs, assumptions, and opportunity costs to help make better decisions.",
+  "author": {
+    "name": "eshraw"
+  },
+  "keywords": [
+    "product-management"
+  ],
+  "skills": "./skills"
+}

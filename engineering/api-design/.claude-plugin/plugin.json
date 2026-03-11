@@ -1,0 +1,12 @@
+{
+  "name": "api-design",
+  "version": "1.0.0",
+  "description": "Design a well-structured API from a desired outcome. Produces OpenAPI specifications, usage examples, and a plain-language section for non-technical stakeholders.",
+  "author": {
+    "name": "eshraw"
+  },
+  "keywords": [
+    "engineering"
+  ],
+  "skills": "./skills"
+}

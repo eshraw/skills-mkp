@@ -1,0 +1,16 @@
+{
+  "name": "design-system-as-text",
+  "version": "1.0.0",
+  "description": "A set of skills that represents your Figma design system as structured markdown and CSS files \u2014 making it easy for LLMs to understand and apply your design system when building UI.",
+  "author": {
+    "name": "eshraw"
+  },
+  "keywords": [
+    "design",
+    "design-system-as-text"
+  ],
+  "skills": "./skills",
+  "metadata": {
+    "mcp-server": "figma"
+  }
+}

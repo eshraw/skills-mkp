@@ -1,0 +1,12 @@
+{
+  "name": "assumption-audit",
+  "version": "1.0.0",
+  "description": "Surface hidden assumptions in a feature, decision, or plan. Exposes what you're taking for granted so you can validate before committing.",
+  "author": {
+    "name": "eshraw"
+  },
+  "keywords": [
+    "product-management"
+  ],
+  "skills": "./skills"
+}
