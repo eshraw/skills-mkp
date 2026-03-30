@@ -1,0 +1,15 @@
+{
+    "name": "pm-coach",
+    "version": "1.0.0",
+    "description": "Two complementary PM thinking tools: challenge feature prioritization with a structured framework, or enter a conversational coaching mode to sharpen your thinking.",
+    "author": {
+      "name": "eshraw"
+    },
+    "keywords": [
+      "product-management",
+      "prioritization",
+      "decision-making",
+      "coaching"
+    ],
+    "skills": "./skills"
+  }

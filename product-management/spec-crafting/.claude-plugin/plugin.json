@@ -1,0 +1,16 @@
+{
+  "name": "spec-crafting",
+  "version": "1.3.0",
+  "description": "Full specification toolkit — PRD writing, EPIC decomposition, user story writing, acceptance criteria, and Jira push in one plugin.",
+  "author": {
+    "name": "eshraw"
+  },
+  "keywords": [
+    "product-management",
+    "spec",
+    "jira",
+    "prd",
+    "agile"
+  ],
+  "skills": "./skills"
+}

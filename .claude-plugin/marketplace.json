@@ -11,10 +11,16 @@
       "version": "1.0.0"
     },
     {
-      "name": "pm-challenge",
-      "source": "./product-management/pm-challenge",
-      "description": "Challenge the prioritization of a feature from a product management perspective. Surfaces trade-offs, assumptions, and opportunity costs to help make better decisions.",
+      "name": "pm-coach",
+      "source": "./product-management/pm-coach",
+      "description": "Two complementary PM thinking tools: challenge feature prioritization with a structured framework, or enter a conversational coaching mode to sharpen your thinking.",
       "version": "1.0.0"
+    },
+    {
+      "name": "spec-crafting",
+      "source": "./product-management/spec-crafting",
+      "description": "Full specification toolkit — PRD writing, EPIC decomposition, user story writing, acceptance criteria, and Jira push in one plugin.",
+      "version": "1.3.0"
     },
     {
       "name": "design-system-as-text",
